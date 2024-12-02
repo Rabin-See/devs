@@ -2,3 +2,6 @@ some
 texts
 are
 generated
+add
+new
+texts
